@@ -1,1 +1,1 @@
-I made some changes
+Here have some brief description of my package.
